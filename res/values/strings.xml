@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OAuthMagentoGoogle</string>
+    <string name="get_started">Login</string>
+    <string name="catalog_btn_text">Catalog List</string>
+    <string name="action_settings">Settings</string>
+    <string name="webview">Web View</string>
+</resources>
